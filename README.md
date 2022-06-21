@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there, you found me. 👋
+[![Blog](https://img.shields.io/badge/Blog-F0773A?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.yoolu.cn)
+[![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:yangjingpuyu@aliyun.com)
 
 Here are some ideas to get you started:
 
@@ -10,3 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌭 My dream: `while(sleeping){money++;}`
+
+
+
+My GitHub stats (powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)):
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=jerry-yo&show_icons=true&hide_title=true&hide_border=true)](https://www.yoolu.cn)
